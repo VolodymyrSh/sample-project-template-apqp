@@ -1,5 +1,5 @@
 ﻿<AML>
- <Item type="List" id="3C31C1702ECB4E6E9938B7545FB2E451" action="edit">
+ <Item type="List" where="name='Deliverable'" action="edit">
   <name>Deliverable</name>
   <Relationships>
    <Item type="Value" id="CD95C267AE4148FC98ADBD9DA8C55E15" action="merge">
